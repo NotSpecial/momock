@@ -14,7 +14,7 @@ There are two endpoints:
 	In this test the key is hardcoded as "supersecretkey12".
 	So adding a Basic Auhtentication header with username: "api key above" and 
 	empty password works as it would with the API (i.e. it provides access to 
-	all "purchases" methods.
+	all "purchases" methods).
 
 # Installation
 
