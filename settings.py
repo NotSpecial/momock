@@ -8,6 +8,8 @@ MONGO_USERNAME = 'user'
 MONGO_PASSWORD = 'user'
 MONGO_DBNAME = 'test'
 
+DATE_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
+
 API_KEY = 'supersecretkey12'
 
 
