@@ -13,9 +13,8 @@ There are two endpoints:
 	This is secured by authenication logic mimicking the need for an API key.
 	In this test the key is hardcoded as "supersecretkey12".
 	So adding a Basic Auhtentication header with username: "api key above" and 
-	empty password works as it would with the API.
-
-	This api key provides full access to purchases.
+	empty password works as it would with the API (i.e. it provides access to 
+	all "purchases" methods).
 
 # Installation
 
